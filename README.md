@@ -34,6 +34,6 @@ Welcome to my project where Machine Learning meets HR decisions! Predicting whic
 Thank you for visiting our project. We believe in the power of data to transform HR processes, making them more efficient and data-driven. Here's to a more informed and strategic HR decision-making process!
 
 ⭐ Contact & Support:
-Email: mnrohmawan@gmail.com
-instagram: @rohmwann
-Streamlit Web Interface: LiveToolLink[https://promote-employee-byhrd.streamlit.app/]
+- Email: mnrohmawan@gmail.com
+- instagram: @rohmwann
+- Streamlit Web Interface: LiveToolLink[https://promote-employee-byhrd.streamlit.app/]
