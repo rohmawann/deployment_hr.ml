@@ -36,4 +36,4 @@ Thank you for visiting our project. We believe in the power of data to transform
 ⭐ Contact & Support:
 - Email: mnrohmawan@gmail.com
 - instagram: @rohmwann
-- Streamlit Web Interface: LiveToolLink[https://promote-employee-byhrd.streamlit.app/]
+- Streamlit Web Interface: LiveToolLink[https://employe-promote-ml.streamlit.app/]
